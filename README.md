@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Breno-de-Angelo&theme=github" alt="GitHub Activity Graph" />
+  <img src="https://github-contributions.vercel.app/api?username=Breno-de-Angelo&svg=true&theme=github" alt="GitHub Contributions Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-de-Angelo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
